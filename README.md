@@ -72,9 +72,18 @@
 
 ---
 
-<h3 align="left">📊 Coding Stats:</h3>
+<h3 align="left">📊 Coding & GitHub Stats:</h3>
 <p align="left">
   <a href="https://leetcode.com/vaibhavb060/">
     <img src="https://leetcard.jacoblin.cool/vaibhavb060?theme=dark&font=Syne&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/vaibhavtech2006">
+    <img src="https://github-readme-stats.vercel.app/api?username=vaibhavtech2006&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/vaibhavtech2006">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavtech2006&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
   </a>
 </p>
