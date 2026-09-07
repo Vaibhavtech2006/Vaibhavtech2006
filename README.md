@@ -1,5 +1,7 @@
 ![logo](https://github.com/Vaibhavtech2006/Vaibhavtech2006/blob/main/github-header-image%20(3).png)
-<h1 align="center">Hi 👋, I'm Vaibhav Khandelwal</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=ec9783&size=30&center=true&vCenter=true&width=650&height=70&lines=Hi+There+👋🏻+I'm+Vaibhav+Khandelwal;AI+Engineer+🤖;Agentic+AI+%7C+RAG+Enthusiast;Full+Stack+Developer+💻;Problem+Solver+🚀">
+</p>
 <h3 align="center">A passionate Full Stack Developer & AI Enthusiast from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJ3MXV0MjRoeDhuOWo4Nm0wOHF6ZXV3NnJldTF2dmw3d2J3MHhkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif">
