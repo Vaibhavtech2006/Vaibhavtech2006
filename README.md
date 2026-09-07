@@ -24,12 +24,31 @@
 
 - ⚡ Fun fact **I write my best code on a triple-monitor setup!**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vaibhav khandelwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav khandelwal" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/r2006vaibhav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="r2006vaibhav" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vaibhavb060" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaibhavb060" height="30" width="40" /></a>
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="26">  `$ netstat -an | grep social`
+
+<div align="center">
+
+<a href="https://linkedin.com/in/vaibhav-khandelwal" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_LinkedIn-Vaibhav%20Khandelwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
+</a>
+
+<a href="https://www.codechef.com/users/r2006vaibhav" target="_blank">
+  <img src="https://img.shields.io/badge/CodeChef-r2006vaibhav-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0d1117" alt="CodeChef"/>
+</a>
+
+<a href="https://leetcode.com/vaibhavb060/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-vaibhavb060-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" alt="LeetCode"/>
+</a>
+
+<a href="https://x.com/VaibhavKha31789" target="_blank">
+  <img src="https://img.shields.io/badge/X-VaibhavKha31789-ffffff?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" alt="X"/>
+</a>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ---
 
