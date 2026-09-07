@@ -130,7 +130,7 @@
 
 
 <h3 align="left">📊 Coding Stats:</h3>
-<p align="left">
+<p align="center">
   <a href="https://leetcode.com/vaibhavb060/">
     <img src="https://leetcard.jacoblin.cool/vaibhavb060?theme=dark&font=Syne&ext=heatmap" alt="LeetCode Stats" />
   </a>
