@@ -20,7 +20,7 @@
 
 - 👯 I’m looking to collaborate on **MERN & Next.js Projects**
 
-- 📫 How to reach me **vaibhavkhandelwal2006@gmail.com**
+- 📫 How to reach me **khandelwalvaibhav2006@gmail.com**
 
 - ⚡ Fun fact **I write my best code on a triple-monitor setup!**
 
