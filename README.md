@@ -81,3 +81,10 @@
   </a>
 </p>
 
+---
+
+<h3 align="left">🐍 Contribution Snake:</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
+</p>
