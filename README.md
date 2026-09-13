@@ -17,7 +17,6 @@
 
 <p align="left">I engineer scalable web architectures and intelligent AI systems. Passionate about Agentic workflows, RAG pipelines, and bridging the gap between cutting-edge LLMs and real-world applications. Always hunting for the next complex problem to solve.</p>
 
-- 🚀 **Currently building:** The Indian version of the Nagish app & autonomous AI voice agents.
 - 👨‍💻 **Problem Solving:** Consistently optimizing logic with **250+ DSA problems** conquered on LeetCode.
 - 💼 **Open to Work:** Actively seeking opportunities in **Product-Based MNCs** for AI/ML, Forward Deployed, or Full Stack roles.
 - ⚡ **Fun fact:** I write my most optimized code when powered by a triple-monitor setup! 🖥️🖥️🖥️
