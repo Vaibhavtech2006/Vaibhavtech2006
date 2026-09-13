@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=ec9783&size=30&center=true&vCenter=true&width=650&height=70&lines=Hi+There+👋🏻+I'm+Vaibhav+Khandelwal;AI+Engineer+🤖;Agentic+AI+%7C+RAG+Enthusiast;Full+Stack+Developer+💻;Problem+Solver+🚀">
 </p>
-<h1 align="center">Hi 👋, I'm Vaibhav Khandelwal</h1>
+
 
 <!-- Animated Typing Text -->
 <h3 align="center">
