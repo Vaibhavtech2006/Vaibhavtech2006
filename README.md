@@ -2,27 +2,28 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=ec9783&size=30&center=true&vCenter=true&width=650&height=70&lines=Hi+There+👋🏻+I'm+Vaibhav+Khandelwal;AI+Engineer+🤖;Agentic+AI+%7C+RAG+Enthusiast;Full+Stack+Developer+💻;Problem+Solver+🚀">
 </p>
-<h3 align="center">A passionate Full Stack Developer & AI Enthusiast from India</h3>
+<h2 align="center">Hi there, I'm Vaibhav 👋</h2>
+<h3 align="center">AI/ML Engineer | Forward Deployed Engineer | Full Stack Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJ3MXV0MjRoeDhuOWo4Nm0wOHF6ZXV3NnJldTF2dmw3d2J3MHhkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavtech2006&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavtech2006" /> </p>
 
-- 🎓 Pursuing B.Tech in Computer Science (Artificial Intelligence) at **ABESIT**
+<p align="left">I build scalable web architectures and intelligent AI systems. Passionate about Agentic workflows, RAG pipelines, and bridging the gap between cutting-edge LLMs and real-world applications.</p>
 
-- 🔭 I’m currently working on **Indian Version of Nagish app**
+- 🚀 **Currently building:** The Indian version of the Nagish app & autonomous AI agents.
 
-- 🌱 I’m currently learning **AIML, RAG, and AI Agents**
+- 🧠 **Tech Arsenal:** Next.js, MERN, FastAPI, LangChain, RAG architectures, and Agentic AI.
 
-- 👨‍💻 I regularly practice DSA and have solved **250+ problems** on LeetCode
+- 👨‍💻 **Problem Solving:** Consistently optimizing logic with **250+ DSA problems** conquered on LeetCode.
 
-- 💼 Actively looking for a **6-month internship** (Open to Pre-Placement Offers)
+- 💼 **Open to Work:** Actively seeking opportunities in **Product-Based MNCs** for AI/ML, Forward Deployed, or Full Stack roles.
 
-- 👯 I’m looking to collaborate on **MERN & Next.js Projects**
+- 🤝 **Let's Collaborate:** Open to building high-impact GenAI tools and robust Next.js applications.
 
-- 📫 How to reach me **khandelwalvaibhav2006@gmail.com**
+- 📫 **How to reach me:** **khandelwalvaibhav2006@gmail.com**
 
-- ⚡ Fun fact **I write my best code on a triple-monitor setup!**
+- ⚡ **Fun fact:** I write my most optimized code when powered by a triple-monitor setup! 🖥️🖥️🖥️
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
