@@ -2,28 +2,60 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=ec9783&size=30&center=true&vCenter=true&width=650&height=70&lines=Hi+There+👋🏻+I'm+Vaibhav+Khandelwal;AI+Engineer+🤖;Agentic+AI+%7C+RAG+Enthusiast;Full+Stack+Developer+💻;Problem+Solver+🚀">
 </p>
-<h2 align="center">Hi there, I'm Vaibhav 👋</h2>
-<h3 align="center">AI/ML Engineer | Forward Deployed Engineer | Full Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm Vaibhav Khandelwal</h1>
 
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJ3MXV0MjRoeDhuOWo4Nm0wOHF6ZXV3NnJldTF2dmw3d2J3MHhkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif">
+<!-- Animated Typing Text -->
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Forward+Deployed+Engineer;AI%2FML+Engineer;Full+Stack+Developer;Generative+AI+Architect" alt="Typing SVG" />
+  </a>
+</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavtech2006&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavtech2006" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vaibhavtech2006&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavtech2006" /> </p>
 
-<p align="left">I build scalable web architectures and intelligent AI systems. Passionate about Agentic workflows, RAG pipelines, and bridging the gap between cutting-edge LLMs and real-world applications.</p>
+<img align="right" alt="Coding" width="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJ3MXV0MjRoeDhuOWo4Nm0wOHF6ZXV3NnJldTF2dmw3d2J3MHhkMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wLNuW1tCKRiPmDV5Y4/giphy.gif">
 
-- 🚀 **Currently building:** The Indian version of the Nagish app & autonomous AI agents.
+<p align="left">I engineer scalable web architectures and intelligent AI systems. Passionate about Agentic workflows, RAG pipelines, and bridging the gap between cutting-edge LLMs and real-world applications. Always hunting for the next complex problem to solve.</p>
 
-- 🧠 **Tech Arsenal:** Next.js, MERN, FastAPI, LangChain, RAG architectures, and Agentic AI.
-
+- 🚀 **Currently building:** The Indian version of the Nagish app & autonomous AI voice agents.
 - 👨‍💻 **Problem Solving:** Consistently optimizing logic with **250+ DSA problems** conquered on LeetCode.
-
 - 💼 **Open to Work:** Actively seeking opportunities in **Product-Based MNCs** for AI/ML, Forward Deployed, or Full Stack roles.
-
-- 🤝 **Let's Collaborate:** Open to building high-impact GenAI tools and robust Next.js applications.
-
-- 📫 **How to reach me:** **khandelwalvaibhav2006@gmail.com**
-
 - ⚡ **Fun fact:** I write my most optimized code when powered by a triple-monitor setup! 🖥️🖥️🖥️
+
+<br/>
+
+<h3 align="center">🛠️ Tech Arsenal</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+<br/>
+
+<h3 align="center">🔥 My GitHub Stats</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavtech2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavtech2006&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavtech2006&theme=tokyonight&hide_border=true" />
+</div>
+
+<br/>
+
+<h3 align="center">📫 Let's Connect</h3>
+<p align="center">
+  <a href="mailto:khandelwalvaibhav2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
