@@ -1,4 +1,4 @@
-![logo](https://github.com/Vaibhavtech2006/Vaibhavtech2006/blob/main/github-header-image%20(3).png)
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=ec9783&size=30&center=true&vCenter=true&width=650&height=70&lines=Hi+There+👋🏻+I'm+Vaibhav+Khandelwal;AI+Engineer+🤖;Agentic+AI+%7C+RAG+Enthusiast;Full+Stack+Developer+💻;Problem+Solver+🚀">
 </p>
